@@ -1,3 +1,7 @@
 body{
-    background-image:url(./assets/pink\ dust.png)
+    background-image:url(./assets/pink\ dust.png);
+    color: white;
+}
+h1{
+    font-family: 'Cormorant Garamond', serif;
 }
