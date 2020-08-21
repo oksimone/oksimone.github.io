@@ -5,3 +5,9 @@ body{
 h1{
     font-family: 'Cormorant Garamond', serif;
 }
+nav, body{
+    font-family: 'Cormorant Garamond', serif;
+}
+nav{
+    font-weight:30px
+}
