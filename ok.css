@@ -11,3 +11,15 @@ nav, body{
 nav{
     font-weight:30px
 }
+.emailme{
+    font-size: 20px;
+    font-weight:30%;
+}
+#contactbtn:hover{
+    background-color: rgba(0,0,0,0.4);
+
+    
+}
+#contactbtn{
+    background-color:grey;
+}
